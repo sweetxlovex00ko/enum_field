@@ -1,1 +1,1 @@
-added badges (#45)
+Fix RTDETR generate anchor grid out of boundary (#7247)
